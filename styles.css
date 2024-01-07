@@ -1,0 +1,60 @@
+header {
+    background-color: #2794c3;
+    font-family: Georgia, serif;
+    color:snow;
+    font-size: 20px;
+    margin: 10px, 5px;
+    padding: 2px;
+    }
+
+    a {
+        font-family: Georgia, serif;
+        color:snow;
+        font-size: 20px;
+        text-decoration: none;
+    }
+
+    span {
+        font-family: Georgia, serif;
+        color:snow;
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+main {
+    background-color: #c1e2f0;
+    font-family: Georgia, serif;
+    color:black;
+    font-size: 20px;
+    margin: 10px, 5px;
+    padding: 2px;
+    }
+
+    section img {
+        max-width: 100%;
+        max-height: 300px;
+    }
+
+footer {
+    background-color: #2794c3;
+    font-family: Georgia, serif;
+    color:snow;
+    font-size: 20px;
+    margin: 10px, 5px;
+    padding: 2px;
+    }
+    
+    a {
+        font-family: Georgia, serif;
+        color:snow;
+        font-size: 20px;
+        text-decoration: none;
+    }
+
+    span {
+        font-family: Georgia, serif;
+        color:snow;
+        font-size: 20px;
+    } 
+       
+    
