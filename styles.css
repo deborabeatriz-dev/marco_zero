@@ -3,7 +3,6 @@ header {
     font-family: Georgia, serif;
     color:snow;
     font-size: 20px;
-    margin: 10px, 5px;
     padding: 2px;
     }
 
@@ -14,9 +13,19 @@ header {
         text-decoration: none;
     }
 
+    ul {
+        list-style-type: none;
+    }
+
+    ul.opcoes {
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+        align-items: center;
+        padding: 2px;
+    }
+
     span {
-        font-family: Georgia, serif;
-        color:snow;
         font-size: 30px;
         font-weight: bold;
     }
@@ -40,21 +49,6 @@ footer {
     font-family: Georgia, serif;
     color:snow;
     font-size: 20px;
-    margin: 10px, 5px;
     padding: 2px;
     }
-    
-    a {
-        font-family: Georgia, serif;
-        color:snow;
-        font-size: 20px;
-        text-decoration: none;
-    }
 
-    span {
-        font-family: Georgia, serif;
-        color:snow;
-        font-size: 20px;
-    } 
-       
-    
