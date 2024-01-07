@@ -1,14 +1,20 @@
 header {
     background-color: #2794c3;
     font-family: Georgia, serif;
-    color:snow;
+    color:white;
     font-size: 20px;
-    padding: 2px;
+    padding: 15px;
+    }
+
+    li {
+        margin-top: 10px;
     }
 
     a {
+        background-color: #0e678e;
+        padding: 5px;
         font-family: Georgia, serif;
-        color:snow;
+        color:white;
         font-size: 20px;
         text-decoration: none;
     }
@@ -19,10 +25,11 @@ header {
 
     ul.opcoes {
         display: flex;
-        justify-content: space-between;
+        justify-content:space-between;
         list-style-type: none;
-        align-items: center;
         padding: 2px;
+        width: 40%;
+        margin-bottom: 20px;
     }
 
     span {
@@ -47,8 +54,8 @@ main {
 footer {
     background-color: #2794c3;
     font-family: Georgia, serif;
-    color:snow;
+    color:white;
     font-size: 20px;
-    padding: 2px;
+    padding: 15px;
     }
 
